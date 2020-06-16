@@ -364,3 +364,706 @@ dispatchPause@chrome://marionette/content/action.js:1482:10
 toEvents/<@chrome://marionette/content/action.js:1156:16
 action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
 action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592325660660	Marionette	INFO	Stopped listening on port 42231
+1592325820529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileveq7ed"
+1592325824134	Marionette	INFO	Listening on port 36493
+1592325824230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592325827388	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592325827690	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1592325827752	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript warning: http://www.transparencia.pr.gov.br/pte/resources/js/jquery.js, line 2: Script terminated by timeout at:
+m.fn.extend@http://www.transparencia.pr.gov.br/pte/resources/js/jquery.js:2:1526
+simulate@http://www.transparencia.pr.gov.br/pte/resources/js/jquery.js:3:10918
+c@http://www.transparencia.pr.gov.br/pte/resources/js/jquery.js:3:14165
+
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592325886603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD5yC2N"
+1592325889061	Marionette	INFO	Stopped listening on port 36493
+1592325890502	Marionette	INFO	Listening on port 43429
+1592325890538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592325893238	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592325893518	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1592325893609	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn1.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+console.error: "navigated; resolution of _defaultNode aborted"
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592326139021	Marionette	INFO	Stopped listening on port 43429
+1592326140841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE6OeL5"
+1592326144652	Marionette	INFO	Listening on port 34361
+1592326144779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592326147790	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592326148051	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1592326148078	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592326184345	Marionette	INFO	Stopped listening on port 34361
+1592326184731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKt1hTo"
+1592326188215	Marionette	INFO	Listening on port 44653
+1592326188269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592326190968	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592326191244	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1592326191270	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592326332033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNoxEjL"
+1592326336811	Marionette	INFO	Listening on port 42805
+1592326336864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592326341928	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592326449895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKFWz4i"
+1592326458270	Marionette	INFO	Listening on port 33175
+1592326458327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592326463195	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/inspector/grids/grid-inspector.js, line 104: TypeError: this.inspector is null
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592326612648	Marionette	INFO	Stopped listening on port 42805
+1592326617858	Marionette	INFO	Stopped listening on port 44653
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592326828957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile97oMlt"
+1592326833301	Marionette	INFO	Listening on port 46107
+1592326833377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript warning: http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3, line 25: Script terminated by timeout at:
+cv@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3:25:3242
+find@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3:25:21730
+bindSortEvents@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/primefaces.js.jsf?ln=primefaces&v=5.3:18:1626
+init@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/primefaces.js.jsf?ln=primefaces&v=5.3:18:282
+Class.extend/e[d]</<@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/primefaces.js.jsf?ln=primefaces&v=5.3:5:335
+c@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/primefaces.js.jsf?ln=primefaces&v=5.3:5:437
+createWidget@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/primefaces.js.jsf?ln=primefaces&v=5.3:1:4693
+cw@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/primefaces.js.jsf?ln=primefaces&v=5.3:1:4522
+@http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade;jsessionid=5Ao4yYnAS2krp0ZXuJzTHRkB1tkcMN3ShL-PXwpA.ssecs75004?windowId=d35:1077:25
+i@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3:25:25791
+fireWith@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3:25:26798
+ready@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3:25:28871
+bY@http://www.transparencia.pr.gov.br/pte/javax.faces.resource/jquery/jquery.js.jsf?ln=primefaces&v=5.3:25:29263
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1592327025180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejR0qMW"
+1592327030862	Marionette	INFO	Listening on port 42159
+1592327031262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592327079716	Marionette	INFO	Stopped listening on port 46107
+1592327083503	Marionette	INFO	Stopped listening on port 33175
+1592327086838	Marionette	INFO	Stopped listening on port 42159
+1592327195190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexxoAHZ"
+1592327199608	Marionette	INFO	Listening on port 35159
+1592327199707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592327212325	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592327590783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRVrNLu"
+1592327596224	Marionette	INFO	Listening on port 44743
+1592327596313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592327611817	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592327640677	Marionette	INFO	Stopped listening on port 35159
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592327778058	Marionette	INFO	Stopped listening on port 44743
+1592327793903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBsvPj"
+1592327797245	Marionette	INFO	Listening on port 46663
+1592327797317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592327819466	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=b7beac1c82fb, line 2: NS_ERROR_NOT_INITIALIZED: 
+1592327864211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq90UOx"
+1592327864403	Marionette	INFO	Stopped listening on port 46663
+1592327867854	Marionette	INFO	Listening on port 41259
+1592327867929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592327899241	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1592327993165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekDVM5C"
+1592327996509	Marionette	INFO	Listening on port 43445
+1592327996582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592328083974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcQrDN"
+1592328089365	Marionette	INFO	Listening on port 34491
+1592328089466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592328266894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePFvCRa"
+1592328273562	Marionette	INFO	Listening on port 40495
+1592328273633	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 14:24:33.678: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.677: /usr/lib/firefox/firefox: Fatal IO error 0 (Success) on X server :0.
+
+Gdk-Message: 14:24:33.679: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.678: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.678: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.680: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.679: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.678: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.679: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.678: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.680: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Gdk-Message: 14:24:33.678: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Sandbox: Unexpected EOF, op 0 flags 02000000 path /etc/localtime
+Gdk-Message: 17:24:33.679: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+1592328341437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLa2deH"
+1592328344879	Marionette	INFO	Listening on port 34781
+1592328344963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592328421894	Marionette	INFO	Stopped listening on port 34781
+1592328425575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdDZEv"
+1592328429411	Marionette	INFO	Listening on port 37177
+1592328429489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+1592328660341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileofiEoX"
+1592328663595	Marionette	INFO	Listening on port 42357
+1592328663658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592328697177	Marionette	INFO	Stopped listening on port 42357
+1592328698187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC7mOOD"
+1592328701441	Marionette	INFO	Listening on port 39515
+1592328701544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/mysidia/ad68fae292ef9c509a82b51c421eb841.js?tag=video_mra/hulk_v3, line 263: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/ad68fae292ef9c509a82b51c421eb841.js?tag=video_mra/hulk_v3, line 263: SecurityError: The operation is insecure.
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006101112/wrap.js, line 19: unreachable code after return statement
+JavaScript error: https://df80k0z3fi8zg.cloudfront.net/files/instbid-2.44.5-21-gb90761d.js, line 14: TypeError: n is undefined
+JavaScript error: https://eus.rubiconproject.com/usync.html?p=synacor_xapi&endpoint=us-east, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1592328889762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem7va1F"
+1592328892903	Marionette	INFO	Listening on port 39105
+1592328892981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592328905365	Marionette	INFO	Stopped listening on port 39105
+1592328947304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen3Gryy"
+1592328950961	Marionette	INFO	Listening on port 46293
+1592328951018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592328956946	Marionette	INFO	Stopped listening on port 46293
+1592328994648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemtKNN9"
+1592328997596	Marionette	INFO	Listening on port 35461
+1592328997659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329044498	Marionette	INFO	Stopped listening on port 35461
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592329232058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegf0c23"
+1592329234834	Marionette	INFO	Listening on port 37969
+1592329234870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329280496	Marionette	INFO	Stopped listening on port 37969
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592329281308	Marionette	INFO	Stopped listening on port 39515
+1592329284740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWYlLYD"
+1592329287407	Marionette	INFO	Listening on port 35917
+1592329287453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329439199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileubo1Y2"
+1592329442119	Marionette	INFO	Listening on port 38119
+1592329442212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329479427	Marionette	INFO	Stopped listening on port 35917
+1592329479601	Marionette	INFO	Stopped listening on port 38119
+1592329535601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFqlvIl"
+1592329538250	Marionette	INFO	Listening on port 34301
+1592329538317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+ha@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:881
+Cd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:23025
+
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1592329657302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileowETAV"
+1592329723858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile20DuvD"
+1592329726811	Marionette	INFO	Listening on port 40085
+1592329726871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329809608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHcryN3"
+1592329812309	Marionette	INFO	Listening on port 43155
+1592329812324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592329818801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329838796	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592329886409	Marionette	INFO	Stopped listening on port 40085
+1592329892567	Marionette	INFO	Stopped listening on port 34301
+1592329895013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles392yb"
+1592329898627	Marionette	INFO	Listening on port 38747
+1592329898733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1592329899394	Marionette	INFO	Stopped listening on port 43155
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592329940900	Marionette	INFO	Stopped listening on port 38747
+1592332792160	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1592333562501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexbrMoe"
+1592333565719	Marionette	INFO	Listening on port 41775
+1592333565818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592333661533	Marionette	INFO	Stopped listening on port 41775
+1592333711572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex4oPPY"
+1592333714515	Marionette	INFO	Listening on port 39793
+1592333714583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592333735108	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 196}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=83
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 5: Script terminated by timeout at:
+ot@https://code.jquery.com/jquery-1.10.2.min.js:5:10519
+trigger@https://code.jquery.com/jquery-1.10.2.min.js:5:13362
+simulate@https://code.jquery.com/jquery-1.10.2.min.js:5:16639
+r@https://code.jquery.com/jquery-1.10.2.min.js:5:19701
+
+1592334034734	Marionette	INFO	Stopped listening on port 39793
+1592334038924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuHCFvp"
+JavaScript error: undefined, line 0: Error: QuotaExceededError: storage.local API call exceeded its quota limitations.
+1592334041623	Marionette	INFO	Listening on port 43129
+1592334041663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/normandy-recipes-capabilities importBulk() IndexedDB:  importBulk() in main/normandy-recipes-capabilities The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/cert-revocations importBulk() IndexedDB:  importBulk() in security-state/cert-revocations The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/intermediates importBulk() IndexedDB:  importBulk() in security-state/intermediates The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/onecrl importBulk() IndexedDB:  importBulk() in security-state/onecrl The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/url-classifier-skip-urls deleteBulk() IndexedDB:  deleteBulk() in main/url-classifier-skip-urls The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/search-config importBulk() IndexedDB:  importBulk() in main/search-config The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/public-suffix-list saveLastModified() IndexedDB:  saveLastModified() in1592334497486	Marionette	INFO	Stopped listening on port 43129
+1592334500266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSKiNhz"
+JavaScript error: undefined, line 0: Error: QuotaExceededError: storage.local API call exceeded its quota limitations.
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1963: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+1592334503263	Marionette	INFO	Listening on port 37417
+1592334503286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Couldn't get database handle: TypeError: connection not specified in clone options.
+Query failed: TypeError: db is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+
+(firefox:32187): dconf-WARNING **: 16:09:53.036: failed to commit changes to dconf: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dfile_2derror_2dquark.Code12: Failed to write file “/home/renato/.config/dconf/user.SF7BM0”: write() failed: No space left on device
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: chrome://browser/content/places/places.js, line 152: TypeError: PlacesUtils.asContainer(...) is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedComplete.jsm, line 960: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/UnifiedJavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1963: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+1592334817094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF2QwGL"
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: undefined, line 0: Error: QuotaExceededError: storage.local API call exceeded its quota limitations.
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1963: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+1592334821563	Marionette	INFO	Listening on port 42543
+1592334821611	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+1592334827309	Marionette	INFO	Stopped listening on port 42543
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1592334830917	Marionette	INFO	Stopped listening on port 37417
+1592337546055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHmYgOL"
+JavaScript error: undefined, line 0: Error: QuotaExceededError: storage.local API call exceeded its quota limitations.
+1592337549025	Marionette	INFO	Listening on port 42995
+1592337549066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error(1592337626823	Marionette	INFO	Stopped listening on port 42995
+1592337627908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNfva5E"
+JavaScript error: undefined, line 0: Error: QuotaExceededError: storage.local API call exceeded its quota limitations.
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1963: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+1592337630600	Marionette	INFO	Listening on port 42635
+1592337630640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1441: TypeError: conn is undefined
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+1592337691609	Marionette	INFO	Stopped listening on port 42635
+JavaScript error: https://secure.quantserve.com/quant.js, line 2: TypeError: n.all(...).then is not a function
+1592337944803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepVJpOx"
+1592337947773	Marionette	INFO	Listening on port 40759
+1592337947820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592338221105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRIiyic"
+1592338224134	Marionette	INFO	Listening on port 36001
+1592338224218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592338275537	Marionette	INFO	Stopped listening on port 36001
+1592338476565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevH3Yax"
+1592338479948	Marionette	INFO	Listening on port 39245
+1592338479985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592338535036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerHyw8I"
+1592338538935	Marionette	INFO	Listening on port 40317
+1592338538974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript warning: , line 0: Script terminated by timeout at:
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+Ja/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:4448
+Ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25765
+Cd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22969
+Ud@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25935
+Xd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:26057
+Cd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:23014
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592339060433	Marionette	INFO	Stopped listening on port 40317
+1592339062726	Marionette	INFO	Stopped listening on port 39245
+1592339065691	Marionette	INFO	Stopped listening on port 40759
+1592339068763	Marionette	INFO	Stopped listening on port 37177
+1592339117046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4W7SgT"
+1592339120136	Marionette	INFO	Listening on port 40539
+1592339120178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592339223339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtO41X"
+1592339225978	Marionette	INFO	Listening on port 41085
+1592339226049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592339350440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebA9R1o"
+1592339353365	Marionette	INFO	Listening on port 42757
+1592339353460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592339381588	Marionette	INFO	Stopped listening on port 42757
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/intermediates deleteBulk() IndexedDB:  deleteBulk() in security-state/intermediates The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: security-state/onecrl importBulk() IndexedDB:  importBulk() in security-state/onecrl The current transaction exceeded its quota limitations.
+console.error: services.settings: 
+  Message: QuotaExceededError: IndexedDB: main/url-classifier-skip-urls deleteBulk() IndexedDB:  deleteBulk() in main/ur1592339954769	Marionette	INFO	Stopped listening on port 41085
+1592339958609	Marionette	INFO	Stopped listening on port 40539
+1592339961277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePUgFzs"
+JavaScript error: undefined, line 0: Error: QuotaExceededError: storage.local API call exceeded its quota limitations.
+1592339963856	Marionette	INFO	Listening on port 45967
+1592339963895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 887: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
+1592339967624	Marionette	INFO	Stopped listening on port 45967

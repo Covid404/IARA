@@ -1,5 +1,5 @@
-id,preco,qtd,mecanico
-0,57800,50,0
-1,69000,250,0
-2,73000,100,0
+nome,preco,data,estado,quantidade
+ventilador,57800,,ES,50
+ventilador,69000,,ES,250
+ventilador,73000,,ES,100
 

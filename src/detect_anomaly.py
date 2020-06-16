@@ -1,6 +1,7 @@
 from scipy.stats import zmap
 import numpy as np
 from sklearn.cluster import KMeans
+import pandas as pd
 
 
 class DetectAnomaly:
@@ -26,7 +27,7 @@ class DetectAnomaly:
     def predict(self, value: float) -> bool:
         """Return True if Anomaly and False otherwise"""
         for cluster in range(self.num_clusters):
-            if value < self.means[cluster] + 4 * self.stddevs[cluster]:
+            if value < self.means[cluster] + 1 * self.stddevs[cluster]:
                 return False
         return True
         
@@ -34,8 +35,10 @@ class DetectAnomaly:
 
 if __name__ == "__main__":
     da = DetectAnomaly()
-    data = np.concatenate((np.random.normal(size=50), 
-                           np.random.normal(loc=1.0, size=100)))
-    da.fit(data)
-    print(da.predict(-5.0))
+    
+    dataset = pd.read_csv('../data/full_data.csv')
+    da.fit(dataset['preco'].to_numpy())
+    
+    for preco in dataset['preco'].to_numpy():
+        print(da.predict(preco))
 

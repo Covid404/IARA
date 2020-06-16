@@ -5,6 +5,7 @@ Depois a gt acha um nome melhor
 
 ## Fonte dos Dados:
 
+* [PE](https://comprasemergenciaiscovid19.saude.pe.gov.br/)
 * [BA](http://www.saude.ba.gov.br/temasdesaude/coronavirus/contratacoes-covid19/)
 * [SP](https://www.saopaulo.sp.gov.br/coronavirus/transparencia/)
 * [MG](http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus)

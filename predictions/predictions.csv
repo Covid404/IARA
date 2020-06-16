@@ -1,0 +1,22 @@
+data,estado,nome,preco,quantidade,anomalo
+2020-03-18,BA,Ventilador Pulmonar (Adesão),49500.0,100.0,-1
+,ES,ventilador,57800.0,50.0,1
+,ES,ventilador,69000.0,250.0,-1
+,ES,ventilador,73000.0,100.0,1
+2020-04-29,MG,"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",70000.0,562.0,1
+2020-04-29,MG,"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",25000.0,185.0,1
+2020-05-07,MG,"aquisição de ventiladores pulmonares para atendimento de demanda da secretaria de estado da saúde, visando equipar as unidades hospitalares envolvidas no atendimento e combate à pandemia da covid-19.",24359.2562,300.0,1
+2020-03-20,PE,ventilador pulmonar,49500.0,100.0,-1
+2020-04-01,PE,ventilador pulmonar para insuficiencia repiratoria,63000.0,12.0,-1
+2020-04-01,PE,ventilador pulmonar para insuficiencia repiratoria portatil,32000.0,100.0,-1
+2020-04-17,PE,ventilador pulmonar portatil,64693.0,45.0,-1
+,PE,ventilometros,19946.33,10.0,-1
+2020-03-19,PR,aquisição de ventilador pulmonar.,50635.0,50.0,-1
+2020-04-13,PR,ventilômetro ,25000.0,1.0,-1
+2020-04-17,PR,ventilador pulmonar,93949.6,30.0,-1
+2020-03-30,PR,aquisição de ventilador pulmonar (equipamento usado).,40000.0,5.0,-1
+2020-03-21,RJ,ventilador microprocessado,169800.0,400.0,-1
+2020-04-01,RJ,ventilador microprocessado,198000.0,300.0,-1
+2020-04-01,RJ,ventilador mecanico,187560.0,300.0,-1
+2020-05-18,RO,VENTILADOR PULMONAR NEONATAL PEDIATRICO ADULTO MARCA MAGNAMED MODELO:FLEXIMAGPLUS,56000.0,30.0,-1
+25-03-2020,SP,VENTILADOR PULMONAR 2 NIVEIS DE PRESSAO,17800.0,6.0,-1

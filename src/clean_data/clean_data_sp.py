@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-path_file = "data/dados_sp.csv"
+path_file = "../../raw_data/dados_sp.csv"
 
 
 def clean_data_sp(path_file: str = path_file) -> pd.DataFrame:
@@ -21,4 +21,7 @@ def clean_data_sp(path_file: str = path_file) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    print(clean_data_sp())
+    data = clean_data_sp()
+    print(data)
+    data.to_csv('../../data/dados_sp.csv', index=False)
+

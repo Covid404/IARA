@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import Select
 from selenium import webdriver
 import sys
 import time
-
+import config
 
 my_profile = webdriver.FirefoxProfile()
 #my_profile.set_preference("pref.downloads.disable_button.edit_actions", True)
@@ -12,7 +12,7 @@ my_profile.set_preference("browser.helperApps.neverAsk.openFile", 'application/z
 
 #/home/renato/HACKASERPRO/COVIS/scrap/
 
-my_profile.set_preference("browser.download.dir", '/home/renato/HACKASERPRO/COVIS/scrap/')
+my_profile.set_preference("browser.download.dir", config.path)
 my_profile.set_preference("browser.download.folderList", 2)
 #my_profile.set_preference("browser.download.manager.showWhenStarting", False)
 my_profile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/zip")
@@ -37,3 +37,5 @@ results[0].click()
 time.sleep(10)
 download = browser.find_element_by_id('formPesquisa:lnkDownloadBD')
 download.click()
+
+browser.quit()

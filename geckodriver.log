@@ -1,0 +1,43 @@
+1592412982935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN3RUPL"
+1592412985609	Marionette	INFO	Listening on port 36261
+1592412985652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592413012904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec7mBOv"
+1592413015760	Marionette	INFO	Listening on port 40917
+1592413015816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413195084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRJHPru"
+1592413198120	Marionette	INFO	Listening on port 40939
+1592413198200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592413218776	Marionette	INFO	Stopped listening on port 40939
+1592413221640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePjHH9j"
+1592413224487	Marionette	INFO	Listening on port 44719
+1592413224563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413246184	Marionette	INFO	Stopped listening on port 44719
+1592413324287	Marionette	INFO	Stopped listening on port 40917
+1592413324700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehvJ4UL"
+1592413327656	Marionette	INFO	Listening on port 37531
+1592413327714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592413354066	Marionette	INFO	Stopped listening on port 37531
+1592413453752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile191RbP"
+1592413456592	Marionette	INFO	Listening on port 45201
+1592413456690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413478062	Marionette	INFO	Stopped listening on port 45201
+1592413607852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLrTFw"
+1592413610598	Marionette	INFO	Listening on port 36457
+1592413610663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592413629389	Marionette	INFO	Stopped listening on port 36457
+1592413632113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0i9dsG"
+1592413634857	Marionette	INFO	Listening on port 42257
+1592413634924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413656158	Marionette	INFO	Stopped listening on port 42257

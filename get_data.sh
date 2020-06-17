@@ -1,4 +1,4 @@
-wget https://coronavirus.es.gov.br/Media/Coronavirus/Transparencia/DadosAbertos/dados-contratos-emergenciais-covid-19.csv?v=46 && mv \'dados* raw_data/es.csv
+wget https://coronavirus.es.gov.br/Media/Coronavirus/Transparencia/DadosAbertos/dados-contratos-emergenciais-covid-19.csv?v=46 && mv dados-con* raw_data/es.csv
 
 wget -U "Opera 11.0" https://www.saopaulo.sp.gov.br/wp-content/uploads/2020/06/COVID.csv && mv COVID.csv raw_data/sp.csv
 
@@ -7,5 +7,14 @@ wget http://www.transparencia.dadosabertos.mg.gov.br/dataset/f70b9258-6a29-47ec-
 
 python scrap/get_pr_data.py
 
-unzip DISPENSAS_INEXIGIBILIDADE_COVID-2020.zip
+unzip scrap/DISPENSAS_INEXIGIBILIDADE_COVID-2020.zip
 mv TB_DISPENSAS_INEXIGIBILIDADE-2020.csv raw_data/pr.csv
+
+
+python scrap/get_al_data.py
+mv scrap/Despesas raw_data/al.py
+
+rm -rf *.csv
+rm -rf *.zip
+rm -rf scrap/*.csv
+rm -rf scrap/*.zip

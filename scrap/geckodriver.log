@@ -1067,3 +1067,97 @@ JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: Object
 1592339967624	Marionette	INFO	Stopped listening on port 45967
+1592412360180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePaY1iR"
+1592412362989	Marionette	INFO	Listening on port 33849
+1592412363090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412395464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyQZ071"
+1592412395891	Marionette	INFO	Stopped listening on port 33849
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592412398165	Marionette	INFO	Listening on port 42855
+1592412398198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412435803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYA6JEW"
+1592412438746	Marionette	INFO	Stopped listening on port 42855
+1592412438789	Marionette	INFO	Listening on port 40817
+1592412438825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412538448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileauHvdQ"
+1592412541153	Marionette	INFO	Listening on port 43183
+1592412541197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412581838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelq6p68"
+1592412584625	Marionette	INFO	Listening on port 41443
+1592412584664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412642850	Marionette	INFO	Stopped listening on port 41443
+1592412645510	Marionette	INFO	Stopped listening on port 43183
+1592412647906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRMBHg"
+1592412651079	Marionette	INFO	Listening on port 41295
+1592412651120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412781336	Marionette	INFO	Stopped listening on port 41295
+1592412783541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile50QLCc"
+1592412786164	Marionette	INFO	Listening on port 44425
+1592412786262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592412893865	Marionette	INFO	Stopped listening on port 44425
+1592413705175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFf99eK"
+1592413707882	Marionette	INFO	Listening on port 36827
+1592413707911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413732380	Marionette	INFO	Stopped listening on port 36827
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592413748227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5vQJz"
+1592413750898	Marionette	INFO	Listening on port 35059
+1592413750953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413781908	Marionette	INFO	Stopped listening on port 35059
+1592413796484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCbTLAe"
+1592413799313	Marionette	INFO	Listening on port 43837
+1592413799395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413835536	Marionette	INFO	Stopped listening on port 43837
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592413850513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegPtEm6"
+1592413853224	Marionette	INFO	Listening on port 39715
+1592413853326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+1592413935302	Marionette	INFO	Stopped listening on port 39715
+1592414178843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaD79cs"
+1592414181460	Marionette	INFO	Listening on port 38377
+1592414181558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://transparencia.al.gov.br/static/js/jquery-2.0.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://vlibras.gov.br/app/vlibras-plugin.js, line 81: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592414230435	Marionette	INFO	Stopped listening on port 38377
+1592414270578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFD5KM5"
+1592414273242	Marionette	INFO	Listening on port 37251
+1592414273306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
+1592414300455	Marionette	INFO	Stopped listening on port 37251

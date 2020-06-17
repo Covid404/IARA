@@ -5,6 +5,7 @@ Depois a gt acha um nome melhor
 
 ## Fonte dos Dados:
 
+* [PI](https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid)
 * [MT](http://www.transparencia.mt.gov.br/-/contratos-covid-19)
 * [RN](http://transparencia.rn.gov.br/covid)
 * [PE](https://comprasemergenciaiscovid19.saude.pe.gov.br/)

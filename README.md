@@ -5,6 +5,7 @@ Depois a gt acha um nome melhor
 
 ## Fonte dos Dados:
 
+* [RR](http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19)
 * [AP](http://www.transparencia.ap.gov.br/consulta/2/496/despesas/%C3%B3rg%C3%A3o/detalhes/1)
 * [MS](http://www.comprascoronavirus.ms.gov.br/)
 * [PI](https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid)

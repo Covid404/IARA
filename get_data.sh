@@ -18,6 +18,12 @@ curl https://transparenciacovid19.pa.gov.br/covid.json > scrap/para.json
 python scrap/get_pa_data.py
 mv pa.csv raw_data/pa.csv
 
+
+#wget https://www.compras.rj.gov.br/arquivos/COMPRAS_DIRETAS.zip
+wget --no-check-certificate -U "Opera 11.0" https://www.compras.rj.gov.br/arquivos/COMPRAS_DIRETAS.zip
+unzip COMPRAS_DIRETAS.zip
+mv COMPRAS_DIRETAS.CSV raw_data/rj_diretas.csv
+
 rm -rf *.csv
 rm -rf *.zip
 rm -rf scrap/*.csv

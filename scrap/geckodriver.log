@@ -1161,3 +1161,8 @@ IPDL protocol error: Handler returned error code!
 JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
 JavaScript error: http://www.transparencia.pr.gov.br/pte/resources/js/pte/menu-interno.min.js, line 1: SyntaxError: unexpected token: identifier
 1592414300455	Marionette	INFO	Stopped listening on port 37251
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592414619904	Marionette	INFO	Stopped listening on port 40817

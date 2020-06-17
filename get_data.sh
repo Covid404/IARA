@@ -14,7 +14,12 @@ mv TB_DISPENSAS_INEXIGIBILIDADE-2020.csv raw_data/pr.csv
 python scrap/get_al_data.py
 mv scrap/Despesas raw_data/al.py
 
+curl https://transparenciacovid19.pa.gov.br/covid.json > scrap/para.json
+python scrap/get_pa_data.py
+mv pa.csv raw_data/pa.csv
+
 rm -rf *.csv
 rm -rf *.zip
 rm -rf scrap/*.csv
 rm -rf scrap/*.zip
+rm -rf scrap/*.json

@@ -42,6 +42,7 @@ if __name__ == "__main__":
 
     df = df.sort_values(by=["preco"], ascending=False)
     df = df.reset_index()
+    df = df.drop(columns=["index"])
 
     
     for index in range(df.shape[0]):

@@ -5,6 +5,8 @@ Depois a gt acha um nome melhor
 
 ## Fonte dos Dados:
 
+* [CE](https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas)
+* [BR](https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19)
 * [AL](http://transparencia.al.gov.br/despesa/despesas-com-covid19/)
 * [RR](http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19)
 * [AP](http://www.transparencia.ap.gov.br/consulta/2/496/despesas/%C3%B3rg%C3%A3o/detalhes/1)

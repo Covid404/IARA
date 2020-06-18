@@ -1,3 +1,7 @@
-nome,preco,data,estado,quantidade
-Ventilador Pulmonar,117323,2020-05-26,CE,700
-
+nome,quantidade,preco,data,estado
+"ventilador pulmonar para pacientes adulto e pediátrico modelo  carmel, marca: ktk",20.0,59900,,CE
+"equipamento, ventilador pulmonar, microprocessado, bateria, acessórios, pacientes adulto e pediátrico.",50.0,52000,,CE
+"ventilador pulmonar valor unitário em dólar: 28.500,00 (taxa considerada de usd (5,25)  valor unitário em real: r$ 149.625,00 total geral: r$   4.488.750,00",30.0,149625,,CE
+"ventilador mecânico vg-70 (inclusos acessórios ) valor do produto em dolar: 16.100,000,00 valor do produto em real : 82.126.100,00 taxa cambial do dia 24/03/2020 usd 5,1010",700.0,117323,,CE
+equipamento ventilador pulmonar,30.0,50593.63,,CE
+ventilador pulmonar invasivo e não invasivo para atendimento de pacientes adultos e pediátricos. completo com acessórios,40.0,50800,,CE

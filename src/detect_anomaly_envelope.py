@@ -12,9 +12,9 @@ def run_model(train_data: np.ndarray, predict_data: np.ndarray):
     return outlier        
 
 
-if __name__ == "__main__":
 
-    df = pd.read_csv('../data/full_data.csv')
+def make_predictions():
+    df = pd.read_csv('data/full_data.csv')
     #df["preco"] = df["preco"].str.replace(".", "")
     #dVf["preco"] = df["precoa"].str.replace(",", ".")
     df["preco"] = pd.to_numeric(df["preco"])
@@ -57,14 +57,17 @@ if __name__ == "__main__":
     scaler = MinMaxScaler(feature_range=(0, 10))
     scores = df['anomalo'].values.reshape(-1, 1)
     scores = -1*scores
+
     df['anomalo'] = scaler.fit_transform(scores)
+    df['anomalo'] = df['anomalo'] ** (1/3)
+    df['anomalo'] = scaler.fit_transform(df['anomalo'].values.reshape(-1, 1))
 
 
     #### add anomalo label
     def set_label(value: float) -> str:
-        if value < 0.1:
+        if value < 10/3:
             return "baixo"
-        elif value < 3:
+        elif value < 20/3:
             return "medio"
         else:
             return "alto"
@@ -73,6 +76,6 @@ if __name__ == "__main__":
     df['anomalo_label'] = values
 
     with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
-        print(df[['preco', 'anomalo']])
+        print(df[['preco', 'anomalo', 'anomalo_label']])
     df['data'] = pd.to_datetime(df['data']).dt.strftime('%d/%m/%Y')
-    df.to_csv('../predictions/predictions.csv', index=False)
+    df.to_csv('predictions/predictions.csv', index=False)

@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from sklearn.covariance import EllipticEnvelope
 from sklearn.preprocessing import MinMaxScaler
+from math import log
+
 
 def run_model(train_data: np.ndarray, predict_data: np.ndarray):
     clf = EllipticEnvelope()
@@ -51,12 +53,24 @@ if __name__ == "__main__":
                                "anomalo"] < score_value).values.tolist()
         lesser_index = [False] * (index + 1) + lesser_index
         df.loc[lesser_index, "anomalo"] = score_value
-
     
     scaler = MinMaxScaler(feature_range=(0, 10))
     scores = df['anomalo'].values.reshape(-1, 1)
-    scores = 2**scores
+    scores = -1*scores
     df['anomalo'] = scaler.fit_transform(scores)
+
+
+    #### add anomalo label
+    def set_label(value: float) -> str:
+        if value < 0.1:
+            return "baixo"
+        elif value < 3:
+            return "medio"
+        else:
+            return "alto"
+
+    values = [set_label(x) for x in df['anomalo'].values]
+    df['anomalo_label'] = values
 
     with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
         print(df[['preco', 'anomalo']])

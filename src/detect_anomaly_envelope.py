@@ -73,5 +73,6 @@ if __name__ == "__main__":
     df['anomalo_label'] = values
 
     with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
-        print(df[['preco', 'anomalo', 'anomalo_label']])
+        print(df[['preco', 'anomalo']])
+    df['data'] = pd.to_datetime(df['data']).dt.strftime('%d/%m/%Y')
     df.to_csv('../predictions/predictions.csv', index=False)

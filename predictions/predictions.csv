@@ -1,45 +1,45 @@
 nome,quantidade,preco,data,estado,Fonte,anomalo,anomalo_label
-AQUISIÇÂO VENTILADOR PULMONAR,30.0,226000.0,2020-03-25,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,10.0,alto
-aquisição emergencial e conjunta de ventiladores pulmonares com fundamento na resolução nº 062020 da assembleia geral do consórcio interestadual de desenvolvimento sustentável do nordeste  consórcio...,30.0,218592.0,2020-05-11,AL,http://transparencia.al.gov.br/despesa/despesas-com-covid19/,9.050345775611389,alto
-ventilador microprocessado,300.0,198000.0,2020-04-01,RJ,http://painel.saude.rj.gov.br/contratos/transparencia.html,6.659434302451027,alto
-ventilador drager savina,20.0,197802.0,2020-05-11,AL,http://transparencia.al.gov.br/despesa/despesas-com-covid19/,6.638221343937414,alto
-ventilador mecanico,300.0,187560.0,2020-04-01,RJ,http://painel.saude.rj.gov.br/contratos/transparencia.html,5.58708045234022,alto
-ventilador microprocessado,400.0,169800.0,2020-03-21,RJ,http://painel.saude.rj.gov.br/contratos/transparencia.html,3.978996648940048,alto
+AQUISIÇÂO VENTILADOR PULMONAR,30.0,226000.0,25/03/2020,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,10.0,alto
+aquisição emergencial e conjunta de ventiladores pulmonares com fundamento na resolução nº 062020 da assembleia geral do consórcio interestadual de desenvolvimento sustentável do nordeste  consórcio...,30.0,218592.0,11/05/2020,AL,http://transparencia.al.gov.br/despesa/despesas-com-covid19/,9.050345775611389,alto
+ventilador microprocessado,300.0,198000.0,01/04/2020,RJ,http://painel.saude.rj.gov.br/contratos/transparencia.html,6.659434302451027,alto
+ventilador drager savina,20.0,197802.0,11/05/2020,AL,http://transparencia.al.gov.br/despesa/despesas-com-covid19/,6.638221343937414,alto
+ventilador mecanico,300.0,187560.0,01/04/2020,RJ,http://painel.saude.rj.gov.br/contratos/transparencia.html,5.58708045234022,alto
+ventilador microprocessado,400.0,169800.0,21/03/2020,RJ,http://painel.saude.rj.gov.br/contratos/transparencia.html,3.978996648940048,alto
 "ventilador pulmonar valor unitário em dólar: 28.500,00 (taxa considerada de usd (5,25)  valor unitário em real: r$ 149.625,00 total geral: r$   4.488.750,00",30.0,149625.0,,CE,https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas,2.482552810528218,medio
-VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,9.0,146132.0,04/05/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,2.259145833803585,medio
-Aquisição de ventilador pulmonar,11.0,135000.0,2020-03-31,MS,http://www.comprascoronavirus.ms.gov.br/,1.6174240216350166,medio
-Respiradores ,400.0,126000.0,26/03/20,PA,https://transparenciacovid19.pa.gov.br/covid.json,1.1768023061403925,medio
-"ventiladores mecânicos, para equipar o Hospital Nossa Senhora de Fátima",10.0,121500.0,2020-05-19,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.982710085969245,medio
+VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,9.0,146132.0,05/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,2.259145833803585,medio
+Aquisição de ventilador pulmonar,11.0,135000.0,31/03/2020,MS,http://www.comprascoronavirus.ms.gov.br/,1.6174240216350166,medio
+Respiradores ,400.0,126000.0,26/03/2020,PA,https://transparenciacovid19.pa.gov.br/covid.json,1.1768023061403925,medio
+"ventiladores mecânicos, para equipar o Hospital Nossa Senhora de Fátima",10.0,121500.0,19/05/2020,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.982710085969245,medio
 "ventilador mecânico vg-70 (inclusos acessórios ) valor do produto em dolar: 16.100,000,00 valor do produto em real : 82.126.100,00 taxa cambial do dia 24/03/2020 usd 5,1010",700.0,117323.0,,CE,https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas,0.8181915767936507,medio
-"VENTILADORES PULMONARES PRESSOMÉTRICO E VOLUMÉTRICO, PARA SEREM USADOS EM CRIANÇAS PORTADORAS DE CORONA VIRUS",10.0,111090.0,2020-04-07,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.6006973428288482,medio
-421237 ventilador artificial eletrônico tipo 01 transporte modelo pediátricoadulto modos ventilação vcv simvcpapps ac parâmetros ventilatórios parâmetros vc fr fio2 peep componentes válvulas...,23.0,109894.0,2020-03-27,AL,http://transparencia.al.gov.br/despesa/despesas-com-covid19/,0.5627987787515538,medio
-A contratação direta (emergencial) para aquisição de Ventiladores Pulmonares,15.0,107000.0,2020-05-21,RN,http://transparencia.rn.gov.br/covid,0.4762028029030958,medio
-ventilador pulmonar,30.0,93949.6,2020-04-17,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.17550506591624426,medio
-VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,300.0,85000.0,04/05/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.05426975088114805,baixo
-EQUIPAMENTOS HOSPITALARES (VENTILADOR PULMONAR),12.0,79000.0,2020-04-15,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.011702962268731909,baixo
-"AQUISIÇÃO EQUIPAMENTOS MÉDICO-HOSPITALARES: VENTILADORES MECÔNICOS PARA UTI E PARA TRANSPORTE E EMERGÊNCIA, AMBOS COM ACESSÓRIOS",100.0,74131.46,2020-03-26,MT,http://www.transparencia.mt.gov.br/-/contratos-covid-19,0.0,baixo
-VENTILADOR PULMONAR ELETRÔNICO MICROPROCESSADO PARA PACIENTES PEDIÁTRICOS E ADULTOS,100.0,73000.0,2020-05-27,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
-VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,10.0,72734.0,08/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
+"VENTILADORES PULMONARES PRESSOMÉTRICO E VOLUMÉTRICO, PARA SEREM USADOS EM CRIANÇAS PORTADORAS DE CORONA VIRUS",10.0,111090.0,07/04/2020,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.6006973428288482,medio
+421237 ventilador artificial eletrônico tipo 01 transporte modelo pediátricoadulto modos ventilação vcv simvcpapps ac parâmetros ventilatórios parâmetros vc fr fio2 peep componentes válvulas...,23.0,109894.0,27/03/2020,AL,http://transparencia.al.gov.br/despesa/despesas-com-covid19/,0.5627987787515538,medio
+A contratação direta (emergencial) para aquisição de Ventiladores Pulmonares,15.0,107000.0,21/05/2020,RN,http://transparencia.rn.gov.br/covid,0.4762028029030958,medio
+ventilador pulmonar,30.0,93949.6,17/04/2020,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.17550506591624426,medio
+VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,300.0,85000.0,05/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.05426975088114805,baixo
+EQUIPAMENTOS HOSPITALARES (VENTILADOR PULMONAR),12.0,79000.0,15/04/2020,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.011702962268731909,baixo
+"AQUISIÇÃO EQUIPAMENTOS MÉDICO-HOSPITALARES: VENTILADORES MECÔNICOS PARA UTI E PARA TRANSPORTE E EMERGÊNCIA, AMBOS COM ACESSÓRIOS",100.0,74131.46,26/03/2020,MT,http://www.transparencia.mt.gov.br/-/contratos-covid-19,0.0,baixo
+VENTILADOR PULMONAR ELETRÔNICO MICROPROCESSADO PARA PACIENTES PEDIÁTRICOS E ADULTOS,100.0,73000.0,27/05/2020,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
+VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,10.0,72734.0,04/08/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
 VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,5.0,72734.0,30/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
-VENTILADOR ARTIFICIAL ELETRôNICO,3.0,72733.08,02/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
-"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",562.0,70000.0,2020-04-29,MG,http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus,0.0,baixo
-VENTILADOR PULMONAR MICROPROCESSADO - ENFRENTAMENTO COVID-19 -  PRODUTO IMPORTADO - VALOR DE REFERÊNCIA COTAÇÃO DO DIA 30/04/2020,250.0,69000.0,2020-04-30,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
-ventilador pulmonar portatil,45.0,64693.0,2020-04-17,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
-ventilador pulmonar para insuficiencia repiratoria,12.0,63000.0,2020-04-01,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
-VENTILADOR ARTIFICIAL ELETRôNICO,50.0,61945.37,01/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
+VENTILADOR ARTIFICIAL ELETRôNICO,3.0,72733.08,04/02/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
+"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",562.0,70000.0,29/04/2020,MG,http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus,0.0,baixo
+VENTILADOR PULMONAR MICROPROCESSADO - ENFRENTAMENTO COVID-19 -  PRODUTO IMPORTADO - VALOR DE REFERÊNCIA COTAÇÃO DO DIA 30/04/2020,250.0,69000.0,30/04/2020,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
+ventilador pulmonar portatil,45.0,64693.0,17/04/2020,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
+ventilador pulmonar para insuficiencia repiratoria,12.0,63000.0,01/04/2020,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
+VENTILADOR ARTIFICIAL ELETRôNICO,50.0,61945.37,04/01/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
 VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,100.0,60000.0,28/05/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
 "ventilador pulmonar para pacientes adulto e pediátrico modelo  carmel, marca: ktk",20.0,59900.0,,CE,https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas,0.0,baixo
-Ventiladores de UTI,1.0,58431.0,2020-05-15,RN,http://transparencia.rn.gov.br/covid,0.0,baixo
-VENTILADOR PULMONAR - PARA AS UNIDADES HOSPITALARES DA SESA E UNIDADES DE SAÚDE DOS MUNICÍPIOS - ENFRENTAMENTO COVID 19,50.0,57800.0,2020-03-26,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
-VENTILADOR PULMONAR NEONATAL PEDIATRICO ADULTO MARCA MAGNAMED MODELO:FLEXIMAGPLUS,30.0,56000.0,2020-05-18,RO,http://www.transparencia.ro.gov.br/Grafico/DespesasCOVID19,0.0,baixo
-Aquisição de ventilador pulmonar portátil.,25.0,54735.0,2020-03-26,MS,http://www.comprascoronavirus.ms.gov.br/,0.0,baixo
+Ventiladores de UTI,1.0,58431.0,15/05/2020,RN,http://transparencia.rn.gov.br/covid,0.0,baixo
+VENTILADOR PULMONAR - PARA AS UNIDADES HOSPITALARES DA SESA E UNIDADES DE SAÚDE DOS MUNICÍPIOS - ENFRENTAMENTO COVID 19,50.0,57800.0,26/03/2020,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
+VENTILADOR PULMONAR NEONATAL PEDIATRICO ADULTO MARCA MAGNAMED MODELO:FLEXIMAGPLUS,30.0,56000.0,18/05/2020,RO,http://www.transparencia.ro.gov.br/Grafico/DespesasCOVID19,0.0,baixo
+Aquisição de ventilador pulmonar portátil.,25.0,54735.0,26/03/2020,MS,http://www.comprascoronavirus.ms.gov.br/,0.0,baixo
 "equipamento, ventilador pulmonar, microprocessado, bateria, acessórios, pacientes adulto e pediátrico.",50.0,52000.0,,CE,https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas,0.0,baixo
 ventilador pulmonar invasivo e não invasivo para atendimento de pacientes adultos e pediátricos. completo com acessórios,40.0,50800.0,,CE,https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas,0.0,baixo
-aquisição de ventilador pulmonar.,50.0,50635.0,2020-03-19,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.0,baixo
+aquisição de ventilador pulmonar.,50.0,50635.0,19/03/2020,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.0,baixo
 equipamento ventilador pulmonar,30.0,50593.63,,CE,https://cearatransparente.ce.gov.br/portal-da-transparencia/paginas/coronavirus-despesas,0.0,baixo
-Ventilador Pulmonar (Adesão),100.0,49500.0,2020-03-18,BA,http://www.saude.ba.gov.br/temasdesaude/coronavirus/contratacoes-covid19/,0.0,baixo
-ventilador pulmonar,100.0,49500.0,2020-03-20,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
-Aquisição de ventilador pulmonar,50.0,49500.0,2020-03-25,AP,http://www.transparencia.ap.gov.br/consulta/2/496/despesas/%C3%B3rg%C3%A3o/detalhes/1,0.0,baixo
+Ventilador Pulmonar (Adesão),100.0,49500.0,18/03/2020,BA,http://www.saude.ba.gov.br/temasdesaude/coronavirus/contratacoes-covid19/,0.0,baixo
+ventilador pulmonar,100.0,49500.0,20/03/2020,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
+Aquisição de ventilador pulmonar,50.0,49500.0,25/03/2020,AP,http://www.transparencia.ap.gov.br/consulta/2/496/despesas/%C3%B3rg%C3%A3o/detalhes/1,0.0,baixo
 AQUISIÇÂO VENTILADOR PULMONAR,2.0,44100.0,,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,0.0,baixo
 VENTILADOR PULMONAR MICROPROCESSADO,50.0,44100.0,,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,0.0,baixo
 AQUISIÇÂO VENTILADOR PULMONAR,5.0,44100.0,,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,0.0,baixo
@@ -58,16 +58,16 @@ AQUISIÇÂO VENTILADOR PULMONAR,2.0,44100.0,,RR,http://www.transparencia.rr.gov.
 AQUISIÇÂO VENTILADOR PULMONAR,2.0,44100.0,,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,0.0,baixo
 AQUISIÇÂO VENTILADOR PULMONAR,7.0,44100.0,,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,0.0,baixo
 AQUISIÇÂO VENTILADOR PULMONAR,9.0,44100.0,,RR,http://www.transparencia.rr.gov.br/index.php/roraima-contra-o-coronavirus/consulta-despesas-covid19,0.0,baixo
-VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,6.0,44000.0,11/05/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
-aquisição de ventilador pulmonar (equipamento usado).,5.0,40000.0,2020-03-30,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.0,baixo
-VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,2.0,35200.0,06/04/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
-VENTILADOR PULMONAR DE TRANSPORTE MICROPROCESSADOR,1.0,34000.0,2020-04-03,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.0,baixo
-ventilador pulmonar para insuficiencia repiratoria portatil,100.0,32000.0,2020-04-01,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
-VENTILADORES PULMONAR MECÂNICO PNEUMÁTICO PARA SEREM USADOS EM CRIANÇAS PORTADORA DE CORONAVÍRUS,2.0,26400.0,2020-04-02,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.0,baixo
-VENTILADOR MECÂNICO PARA AS UNIDADES HOSPITALARES DA SESA E UNIDADES DE SAÚDE DOS MUNICÍPIOS - ENFRENTAMENTO COVID 19,135.0,26000.0,2020-03-26,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
-ventilômetro ,1.0,25000.0,2020-04-13,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.0,baixo
-"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",185.0,25000.0,2020-04-29,MG,http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus,0.0,baixo
-"aquisição de ventiladores pulmonares para atendimento de demanda da secretaria de estado da saúde, visando equipar as unidades hospitalares envolvidas no atendimento e combate à pandemia da covid-19.",300.0,24359.2562,2020-05-07,MG,http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus,0.0,baixo
+VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,6.0,44000.0,05/11/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
+aquisição de ventilador pulmonar (equipamento usado).,5.0,40000.0,30/03/2020,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.0,baixo
+VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,2.0,35200.0,04/06/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
+VENTILADOR PULMONAR DE TRANSPORTE MICROPROCESSADOR,1.0,34000.0,03/04/2020,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.0,baixo
+ventilador pulmonar para insuficiencia repiratoria portatil,100.0,32000.0,01/04/2020,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
+VENTILADORES PULMONAR MECÂNICO PNEUMÁTICO PARA SEREM USADOS EM CRIANÇAS PORTADORA DE CORONAVÍRUS,2.0,26400.0,02/04/2020,PI,https://sistemas.tce.pi.gov.br/contratosweb/mural/?s=covid,0.0,baixo
+VENTILADOR MECÂNICO PARA AS UNIDADES HOSPITALARES DA SESA E UNIDADES DE SAÚDE DOS MUNICÍPIOS - ENFRENTAMENTO COVID 19,135.0,26000.0,26/03/2020,ES,https://coronavirus.es.gov.br/contratos-emergenciais,0.0,baixo
+ventilômetro ,1.0,25000.0,13/04/2020,PR,http://www.transparencia.pr.gov.br/pte/compras/dispensasInexigibilidade?windowId=adf,0.0,baixo
+"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",185.0,25000.0,29/04/2020,MG,http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus,0.0,baixo
+"aquisição de ventiladores pulmonares para atendimento de demanda da secretaria de estado da saúde, visando equipar as unidades hospitalares envolvidas no atendimento e combate à pandemia da covid-19.",300.0,24359.2562,07/05/2020,MG,http://www.transparencia.dadosabertos.mg.gov.br/dataset/contratacoes-coronavirus,0.0,baixo
 ventilometros,10.0,19946.33,,PE,https://comprasemergenciaiscovid19.saude.pe.gov.br/,0.0,baixo
-VENTILADOR PULMONAR 2 NIVEIS DE PRESSAO,6.0,17800.0,25-03-2020,SP,https://www.saopaulo.sp.gov.br/coronavirus/transparencia/,0.0,baixo
-VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,10.0,13900.0,12/06/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo
+VENTILADOR PULMONAR 2 NIVEIS DE PRESSAO,6.0,17800.0,25/03/2020,SP,https://www.saopaulo.sp.gov.br/coronavirus/transparencia/,0.0,baixo
+VENTILADOR ARTIFICIAL ELETRôNICO                                                                                        ,10.0,13900.0,06/12/2020,BR,https://www.comprasgovernamentais.gov.br/index.php/transparencia/60-transparencia/1313-transparencia-dos-dados-de-compras-para-o-covid-19,0.0,baixo

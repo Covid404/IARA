@@ -1,2 +1,2 @@
-nome,preco,data,estado,quantidade
-Ventilador Pulmonar (Adesão),49500,2020-03-18,BA,100
+nome,preco,data,estado,id,quantidade
+Ventilador Pulmonar (Adesão),49500,2020-03-18,BA,019.5050.2020.0028157-17,100

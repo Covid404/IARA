@@ -1,3 +1,3 @@
-nome,quantidade,preco,data,estado
-"Aquisição de ventilador pulmonar",11,135000,2020-03-31,MS
-"Aquisição de ventilador pulmonar portátil.",25,54735,2020-03-26,MS
+nome,quantidade,preco,data,estado,id
+"Aquisição de ventilador pulmonar",11,135000,2020-03-31,MS,27/000.904/2020
+"Aquisição de ventilador pulmonar portátil.",25,54735,2020-03-26,MS,27/000.888/2020

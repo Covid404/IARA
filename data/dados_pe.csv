@@ -1,6 +1,5 @@
-nome,preco,estado,data,quantidade
-ventilador pulmonar,49500,PE,2020-03-20,100
-ventilador pulmonar para insuficiencia repiratoria,63000,PE,2020-04-01,12
-ventilador pulmonar para insuficiencia repiratoria portatil,32000,PE,2020-04-01,100
-ventilador pulmonar portatil,64693,PE,2020-04-17,45
-ventilometros,19946.33,PE,,10
+nome,preco,estado,data,quantidade,id
+ventilador pulmonar,49500,PE,2020-03-20,100,006/2020
+ventilador pulmonar para insuficiencia repiratoria,63000,PE,2020-04-01,12,057/2020
+ventilador pulmonar para insuficiencia repiratoria portatil,32000,PE,2020-04-01,100,057/2020
+ventilador pulmonar portatil,64693,PE,2020-04-17,45,089/2020

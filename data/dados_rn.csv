@@ -1,3 +1,3 @@
-nome,quantidade,preco,data,estado
-A contratação direta (emergencial) para aquisição de Ventiladores Pulmonares,15,107000.0,2020-05-21,RN
-Ventiladores de UTI,1,58431,2020-05-15,RN
+nome,quantidade,preco,data,estado,id
+A contratação direta (emergencial) para aquisição de Ventiladores Pulmonares,15,107000.0,2020-05-21,RN,00610010.001159/2020-13
+Ventiladores de UTI,1,58431,2020-05-15,RN,00610136.000069/2020-81 

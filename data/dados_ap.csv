@@ -1,2 +1,2 @@
-nome,quantidade,preco,data,estado
-"Aquisição de ventilador pulmonar",50,49500,2020-03-25,AP
+nome,quantidade,preco,data,id,estado
+"Aquisição de ventilador pulmonar",50,49500,2020-03-25,2020NE00362,AP

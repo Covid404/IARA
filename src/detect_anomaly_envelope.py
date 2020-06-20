@@ -79,4 +79,5 @@ def make_predictions():
         print(df[['preco', 'anomalo', 'anomalo_label']])
     df['data'] = pd.to_datetime(df['data']).dt.strftime('%Y-%m-%d')    
     df['data'] = pd.to_datetime(df['data']).dt.strftime('%d/%m/%Y')
+    df['valor_total'] = df['quantidade'].astype(int)*df['preco']
     df.to_csv('predictions/predictions.csv', index=False)

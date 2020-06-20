@@ -1,4 +1,4 @@
-nome,quantidade,preco,data,estado
+nome,quantidade,preco,data,estado,id
 "Aquisição de ventilador mecânico  ... ",1,70000,2020-05-20,PI,CW-005826/20
 "ventiladores mecânicos, para equipar o Hospital Nossa Senhora de Fátima",10,121500,2020-05-19,PI,CW-004687/20
 "EQUIPAMENTOS HOSPITALARES (VENTILADOR PULMONAR)",12,79000,2020-04-15,PI,CW-003618/20

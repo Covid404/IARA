@@ -10,7 +10,7 @@ def clean_data_fed(path_file: str = path_file) -> pd.DataFrame:
     df_ventiladores = df_ventiladores[~df_ventiladores['ITEM_DESCRICAO'].str.contains('CIRCUITO|MOTOR')]
     df_ventiladores = df_ventiladores[['COD_COMPRA', 'ITEM_DESCRICAO', 'PRECO_UNITARIO', 'DATA','UF', 'QUANTIDADE']]
     df_ventiladores.columns = ['id', 'nome', 'preco', 'data', 'estado', 'quantidade']
-
+    df_ventiladores['estado'] = ["BR"]*df_ventiladores.shape[0]
     return df_ventiladores
 
 

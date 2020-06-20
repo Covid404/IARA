@@ -16,6 +16,8 @@ def concat_datasets():
 
     for index in range(combined_csv.shape[0]):
         state = combined_csv.loc[index, "estado"]
+        print(state)
+        print(combined_csv.loc[index])
         link_index = source_df["estado"] == state
         link = source_df.loc[link_index,"link"]
         links.append(link.values[0])

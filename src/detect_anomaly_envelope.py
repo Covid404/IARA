@@ -78,5 +78,5 @@ def make_predictions():
     with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
         print(df[['preco', 'anomalo', 'anomalo_label']])
     df['data'] = pd.to_datetime(df['data']).dt.strftime('%Y-%m-%d')    
-    df['data'] = df['data'].dt.strftime('%d/%m/%Y')
+    df['data'] = pd.to_datetime(df['data']).dt.strftime('%d/%m/%Y')
     df.to_csv('predictions/predictions.csv', index=False)

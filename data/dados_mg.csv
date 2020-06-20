@@ -1,4 +1,4 @@
-nome,quantidade,preco,data,estado
-"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",562,70000.0,2020-04-29,MG
-"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",185,25000.0,2020-04-29,MG
-"aquisição de ventiladores pulmonares para atendimento de demanda da secretaria de estado da saúde, visando equipar as unidades hospitalares envolvidas no atendimento e combate à pandemia da covid-19.",300,24359.2562,2020-05-07,MG
+nome,quantidade,preco,data,id,estado
+"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",562,70000.0,2020-04-29,1501561 000028/2020,MG
+"aquisição de ventiladores respiratórios em atendimento a demanda da pandemia do covid-19, no estado de minas gerais.",185,25000.0,2020-04-29,1501561 000028/2020,MG
+"aquisição de ventiladores pulmonares para atendimento de demanda da secretaria de estado da saúde, visando equipar as unidades hospitalares envolvidas no atendimento e combate à pandemia da covid-19.",300,24359.2562,2020-05-07,1501561 000031/2020,MG

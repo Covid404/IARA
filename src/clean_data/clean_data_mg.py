@@ -12,8 +12,8 @@ def clean_data_mg(path_file: str = path_file) -> pd.DataFrame:
     
     df = df.loc[index, ["objeto", "QUANTIDADE_HOMOLOGADA", 
                             "VALOR_HOMOLOGADO_UNITARIO",
-                          "DATA_PUBLICACAO"]]
-    df.columns = ["nome", "quantidade", "preco", "data"]
+                          "DATA_PUBLICACAO", "NUMERO_PROCESSO_COMPRA"]]
+    df.columns = ["nome", "quantidade", "preco", "data", "id"]
     df['estado'] = ['MG']*df.shape[0]
     return df
 

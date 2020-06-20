@@ -12,9 +12,9 @@ def clean_data_sp(path_file: str = path_file) -> pd.DataFrame:
     aquisition_index = df['Descrição Processo'].str.contains("AQUISIÇÃO DE EQUIP")
     index = ventilador_index & aquisition_index
     df = df.loc[index, ["objeto", "Quantidade Item", " Valor Unitário ",
-                        "Data Emissão do Pagamento"]]
+                        "Data Emissão do Pagamento", "Número do Processo"]]
     print(df)
-    df.columns = ["nome", "quantidade", "preco", "data"]
+    df.columns = ["nome", "quantidade", "preco", "data", "id"]
     df['estado'] = ['SP']*df.shape[0]
     return df
 

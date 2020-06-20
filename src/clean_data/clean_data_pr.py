@@ -13,8 +13,8 @@ def clean_data_pr(path_file: str = path_file) -> pd.DataFrame:
     index = ventilometro_index | ventilador_index
     
     df = df.loc[index, ["objeto", "quantidade", "valorunitario",
-                          "datapublicacao"]]
-    df.columns = ["nome", "quantidade", "preco", "data"]
+                          "datapublicacao", 'numcontrato']]
+    df.columns = ["nome", "quantidade", "preco", "data", 'id']
     df['estado'] = ['PR']*df.shape[0]
     return df
 

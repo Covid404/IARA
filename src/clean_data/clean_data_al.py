@@ -20,8 +20,8 @@ def clean_data_al(path_file: str = path_file) -> pd.DataFrame:
     index = df['objeto'].str.contains('ventilador')
     df = df.loc[index, ["objeto", "QUANTIDADE", 
                             "VALOR_UNITARIO",
-                          "DATA_CELEBRACAO"]]
-    df.columns = ["nome", "quantidade", "preco", "data"]
+                          "DATA_CELEBRACAO", 'PROCESSO']]
+    df.columns = ["nome", "quantidade", "preco", "data", 'id']
     df["data"] = pd.to_datetime(df['data'], format='%d/%m/%Y')
     df["preco"] = df['preco'].str.replace('.', "")
     df["preco"] = df['preco'].str.replace(',', ".")

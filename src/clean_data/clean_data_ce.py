@@ -15,9 +15,9 @@ def clean_data_al(path_file: str = path_file) -> pd.DataFrame:
     mecanico_index = df['objeto'].str.contains('ventilador mecânico')
     index = (pulmonar_index | mecanico_index) & (~ locacao_index.astype(bool)) & (~circuito_index.astype(bool))
     df = df.loc[index, ["objeto", "quantidade", 
-                            "valorunitario"]]
+                            "valorunitario", "numeroemp"]]
     df["data"] = [""]*df.shape[0]
-    df.columns = ["nome", "quantidade", "preco", "data"]
+    df.columns = ["nome", "quantidade", "preco","id","data"]
     #df["data"] = pd.to_datetime(df['data'], format='%d/%m/%Y')
     #df["preco"] = df['preco'].str.replace('.', "")
     df["preco"] = df['preco'].str.replace(',', ".")

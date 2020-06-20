@@ -1,5 +1,5 @@
-nome,quantidade,preco,data,estado
-aquisição de ventilador pulmonar.,50.0,50635.0,2020-03-19,PR
-ventilômetro ,1.0,25000.0,2020-04-13,PR
-ventilador pulmonar,30.0,93949.6,2020-04-17,PR
-aquisição de ventilador pulmonar (equipamento usado).,5.0,40000.0,2020-03-30,PR
+nome,quantidade,preco,data,id,estado
+aquisição de ventilador pulmonar.,50.0,50635.0,2020-03-19,,PR
+ventilômetro ,1.0,25000.0,2020-04-13,1075.0,PR
+ventilador pulmonar,30.0,93949.6,2020-04-17,1043.0,PR
+aquisição de ventilador pulmonar (equipamento usado).,5.0,40000.0,2020-03-30,1068.0,PR

@@ -1,2 +1,2 @@
-nome,preco,estado,data,quantidade
-Respiradores ,126000.00,PA,26/03/20,400.0
+nome,preco,estado,data,quantidade,id
+Respiradores,126000.00,PA,2020-03-26,400.0,1589837820455

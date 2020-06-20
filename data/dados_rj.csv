@@ -1,4 +1,4 @@
-nome,preco,data,estado,quantidade
-ventilador microprocessado,169800,2020-03-21,RJ,400
-ventilador microprocessado,198000,2020-04-01,RJ,300
-ventilador mecanico,187560,2020-04-01,RJ,300
+nome,preco,data,estado,quantidade,id
+ventilador microprocessado,169800,2020-03-21,RJ,400,2020001633
+ventilador microprocessado,198000,2020-04-01,RJ,300,2020001859
+ventilador mecanico,187560,2020-04-01,RJ,300,2020001868

@@ -1,4 +1,6 @@
-![logo](doc/logo_desc.png)
+<p align="center">
+  <img  src="doc/logo_desc.png">
+</p>
 
 O Observatório de Compras Emergenciais é um sistema que utiliza inteligência 
 artificial para monitorar os 

@@ -18,9 +18,21 @@ O sistema preza pela visualização simples
 e intuitiva dos gastos e tem como seu público alvo os órgãos fiscalizadores, 
 ONGs, imprensa e sociedade civil. 
 
-Site: https://covis-dashboard.herokuapp.com/
+## Como Executar?
 
-Repositorio do Site: https://github.com/Covid404/COVIS-dashboard
+O sistema está em produção no link https://covis-dashboard.herokuapp.com/,
+mas é possível executar de forma local seguindo os passos abaixo.
+
+1. Instalar o [Python 3.6.9 +](https://www.python.org/downloads/) 
+2. Instalar os pacotes com o pip
+
+```pip install -r requirements.txt```
+
+3. Rodar a aplicação de forma local
+
+```python index.py```
+
+4. Abrir o browser no endereço especificado
 
 ## Como Funciona?
 

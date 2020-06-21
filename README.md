@@ -1,7 +1,23 @@
-# Observatório de Compras Emergenciais - Dados
+# IARA
 
+A IARA é a Inteligência Artificial desenvolvida por nós para verifica quão suspeita é uma compra.
 Esse repositório é responsável pelas partes de *web scraping*, *data wrangling*
-e *machine learning*. Onde fica a informação que é apresentada no sistema web.
+e *machine learning*.
+
+## Como Funciona?
+
+### Web Scraping
+
+Técnica que consiste em extrair os dados de websites automaticamente. No caso do Observatório, os dados são extraídos dos portais de transparência estaduais, então foi necessário criar um programa específico para cada portal. Nessa etapa, utilizamos a ferramenta Selenium.
+
+### Data Wrangling
+
+Com os dados obtidos, agora fazemos a limpeza, selecionamos os dados apenas de ventiladores, obtemos os valores de compras e deixamos em um formato utilizável. Nessa etapa, utilizamos as ferramentas Pandas e Numpy
+
+### Machine Learning
+
+Aqui é onde é a IARA realiza a detecção de anomalias a partir dos dados obtidos. O algoritmo que utilizamos é o Minimum Covariance Determinant Estimator, que detecta outliers (exemplos que fogem do padrão) em conjuntos de dados que estão distribuidos de forma normal. Para isso, utilizamos a biblioteca Scikit-Learn.
+
 
 ## Fonte dos Dados:
 

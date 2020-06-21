@@ -1,4 +1,4 @@
-# Dados
+# Observatório de Compras Emergenciais - Dados
 
 Esse repositório é responsável pelas partes de *web scraping*, *data wrangling*
 e *machine learning*. Onde fica a informação que é apresentada no sistema web.

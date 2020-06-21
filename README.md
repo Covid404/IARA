@@ -1,73 +1,7 @@
-![logo](doc/logo_desc.png)
+# Dados
 
-O Observatório de Compras Emergenciais é um sistema que utiliza inteligência 
-artificial para monitorar os 
-gastos públicos no combate à COVID-19. Com a pandemia, o poder público realizou
-diversas compras sem o devido processo de licitação e isso é sem dúvida
-necessário considerando o cenário que estamos. Porém, esse tipo de compra pode
-gerar irregularidades como vemos frequentemente na imprensa.
-
-O problema é que todo o trabalho de monitoramento após essas compras tem que ser feito de forma manual.
-Com a ciência de dados, o Observatório de Compras Emergenciais é capaz de 
-alertar um gasto suspeito, destoante de todos os outros de mesmo tipo feitos 
-pelo país. Ele funciona 
-consultando e analisando periodicamente os gastos das secretarias estaduais. 
-O sistema preza pela visualização simples
-e intuitiva dos gastos e tem como seu público alvo os órgãos fiscalizadores, 
-ONGs, imprensa e sociedade civil. 
-
-Site: https://covis-dashboard.herokuapp.com/
-
-Repositorio do Site: https://github.com/Covid404/COVIS-dashboard
-
-## Como Funciona?
-
-O Observatório usa diversas técnicas e tecnologias para monitorar as compras
-(apenas de ventiladores pulmonares por enquanto) e determinar o nível de anomalia de 
-cada compra, o chamado *suspeitômetro*. O sistema determina
-o quanto cada compra é suspeita, e não se houve realmente fraude. A tarefa de 
-verificação de fraude deve ser feita através de um trabalho investigativo, o 
-qual não é o papel do Observatório. O papel do sistema é agilizar o processo
-investigativo informando aos agentes fiscalizadores quais compras possuem uma 
-maior probabilidade de serem irregulares.
-
-## Como foi Feito?
-
-Toda a solução foi implementada na linguagem de programação *Python*.
-
-### Web Scraping
-
-Técnica que consiste em extrair os dados de websites automaticamente. No caso 
-do Observatório, os dados são extraídos dos portais de transparência estaduais, então foi necessário criar um programa específico para cada portal. Nessa etapa, utilizamos a ferramenta *Selenium*.
-
-### Data Wrangling
-
-Com os dados obtidos, agora fazemos a limpeza, selecionamos os dados apenas de ventiladores, obtemos os valores de compras e deixamos em um formato utilizável. Nessa etapa, utilizamos as ferramentas *Pandas* e *Numpy*
-
-### Machine Learning
-
-Aqui é onde é feita a detecção de anomalias a partir dos dados obtidos. O 
-algoritmo que utilizamos é o *Minimum Covariance Determinant Estimator*, que 
-detecta *outliers* (exemplos que fogem do padrão) em conjuntos de dados que estão distribuidos de forma normal. Para isso, utilizamos a biblioteca *Scikit-Learn*.
-
-### Web Development
-
-Parte em que é feita a apresentação de dados de forma acessível. Os dados são 
-apresentados no formato de tabelas e *heatmap*, com cores que indicam 
-características dos dados, como quão suspeita é uma compra. Utilizamos aqui o 
-*framework* de desenvolvimento web *Dash* e a biblioteca *Plotly* para visualização de dados. 
-
-## Quem Somos?
-
-Somos estudantes da Universidade Federal do Pará - UFPA que desenvolveram esse
-sistema durante o Hackaton Serpro 2020. O Hackaton foi criado com o objetivo de
-desenvolver soluções para reduzir os impactos causados pela pandemia.
-
-* Líder: Aian Shay
-* Web Dev: Alberto Sobrinho
-* Web Dev: Pedro Arouck
-* Data Analyst: Renan Cunha
-* Data Analyst: Renato Mota
+Esse repositório é responsável pelas partes de *web scraping*, *data wrangling*
+e *machine learning*. Onde fica a informação que é apresentada no sistema web.
 
 ## Fonte dos Dados:
 
